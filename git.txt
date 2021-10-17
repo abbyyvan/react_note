@@ -1,0 +1,12 @@
+Basic Git Commands
+
+>git init //initialize the current folder as a repository
+>git status // show stage area
+>git add . // add to git repository
+*>git add <files> // add files ti staging area
+>git commit -m 'xxx' // commit the current stage into git repo
+>git log --oneline // show brief log of commits
+>git checkout <commit> <files> // checkout different version
+>git reset HEAD <file> //unstage the staged file, unchange the working directory
+>git restore <file> // back to latest commit
+
